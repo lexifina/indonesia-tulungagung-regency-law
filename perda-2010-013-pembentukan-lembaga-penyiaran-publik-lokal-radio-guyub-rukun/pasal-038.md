@@ -1,0 +1,5 @@
+# Pasal 38
+(1) Pegawai Lembaga Penyiaran Publik Lokal Radio guyub Rukun adalah Pegawai Negeri Sipil yang diangkat berdasarkan ketentuan peraturan perundang-undangan yang berlaku dan tenaga professional atau praktisi non PNS yang diangkat oleh Dewan Direksi berdasarkan perjanjian kerja;
+(2) Persyaratan, kedudukan, hak, dan kewajiban Pegawai Negeri Sipil Lembaga Penyiaran Publik Lokal Guyub Rukun sebagaimana dimaksud pada ayat (1) diatur berdasarkan ketentuan peraturan perundang-undangan yang berlaku dan keputusan Dewan Direksi.
+(3) Peraturan, kedudukan, hak dan kewajiban pegawai Lembaga Penyiaran Publik Lokal Radio Guyub Rukun dari tenaga professional atau praktisi non PNS sebagaimana dimaksud pada ayat (1) diatur berdasarkan ketentuan peraturan perundang-undangan yang berlaku, keputusan Dewan Direksi dan perjanjian kerja.
+(4) Pegawai Radio Publik Lokal Guyub Rukun baik Pegawai Negeri Sipil maupun tenaga professional atau praktisi non PNS dilarang menjadi anggota dan/atau pengurus partai politik.

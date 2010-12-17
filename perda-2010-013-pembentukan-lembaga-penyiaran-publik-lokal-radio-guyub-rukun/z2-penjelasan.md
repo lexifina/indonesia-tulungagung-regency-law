@@ -1,0 +1,95 @@
+# Penjelasan
+PENJELASAN ATAS PERATURAN DAERAH KABUPATEN TULUNGAGUNG NOMOR 13 TAHUN 2010 TENTANG PEMBENTUKAN LEMBAGA PENYIARAN PUBLIK LOKAL RADIO GUYUB RUKUN
+I. UMUM
+Kegiatan penyiaran di Kabupaten Tulungagung berkembang pesat seiring dengan kemajuan tehnologi serta dinamika masyarakat. Dalam rangka memberikan informasi mengenai penyelenggaraan pendidikan, kebudayaan, dan hiburan yang sehat pada masyarakat, maka diperlukan keberadaan lembaga penyiaran publik yang bersifat independen, netral, dan tidak komersial, sehingga tidak semata-mata menyelenggarakan siaran yang profit oriented atau sekedar sebagai corong pemerintah.
+Sebagai Lembaga Penyiaran Publik Lokal, Radio Guyub Rukun mempunyai tugas memberikan pelayanan informasi, pendidikan, hiburan yang sehat, kontrol dan perekat sosial serta melestarikan budaya daerah, untuk kepentingan seluruh lapisan masyarakat melalui penyelenggaraan penyiaran radio yang menjangkau seluruh wilayah di Kabupaten Tulungagung.
+II. PASAL DEMI PASAL
+Pasal 1
+Cukup jelas
+Pasal 2
+Cukup jelas
+Pasal 3
+Cukup jelas
+Pasal 4
+Cukup jelas
+Pasal 5
+Cukup jelas
+Pasal 6
+Cukup jelas
+Pasal 7
+Cukup jelas
+Pasal 8
+Cukup jelas
+Pasal 9
+Cukup jelas
+Pasal 10
+Cukup jelas
+Pasal 11
+Cukup jelas
+Pasal 12
+Cukup jelas
+Pasal 13
+Cukup jelas
+Pasal 14
+Cukup jelas
+Pasal 15
+Cukup jelas
+Pasal 16
+Cukup jelas
+Pasal 17
+Cukup jelas
+Pasal 18
+Cukup jelas.
+Pasal 19
+Cukup jelas.
+Pasal 20
+Cukup jelas
+Pasal 21
+Cukup jelas
+Pasal 22
+Cukup jelas
+Pasal 23
+Cukup jelas
+Pasal 24
+Cukup jelas
+Pasal 25
+Cukup jelas
+Pasal 26
+Cukup jelas
+Pasal 27
+Cukup jelas
+Pasal 28
+Cukup jelas
+Pasal 29
+Cukup jelas
+Pasal 30
+Cukup jelas
+Pasal 31
+Cukup jelas
+Pasal 32
+Cukup jelas
+Pasal 33
+Cukup jelas
+Pasal 34
+Cukup jelas
+Pasal 35
+Cukup jelas
+Pasal 36
+Cukup jelas
+Pasal 37
+Cukup jelas
+Pasal 38
+Cukup jelas
+Pasal 39
+Cukup jelas
+Pasal 40
+Cukup jelas
+Pasal 41
+Cukup jelas
+Pasal 42
+Cukup jelas
+Pasal 43
+Cukup jelas Filename: Perda 13 2010 LPPL Radio Guyub Rukun Directory: C:\Users\intel core 2 duo\AppData\Roaming\Microsoft\Templates Template: C:\Users\intel core 2 duo\AppData\Roaming\Microsoft\Templates\Normal.dotm Title: PEMERINTAH KABUPATEN TULUNGAGUNG Subject:
+Author: RADIO GUYUB RUKUN Keywords:
+Comments:
+Creation Date: 1/17/2011 10:46:00 AM Change Number: 2 Last Saved On: 1/17/2011 10:46:00 AM Last Saved By: Bagian Hukum Setda Total Editing Time: 0 Minutes Last Printed On: 1/19/2011 7:16:00 AM As of Last Complete Printing Number of Pages: 19 Number of Words: 4,399 (approx.) Number of Characters: 25,075 (approx.)

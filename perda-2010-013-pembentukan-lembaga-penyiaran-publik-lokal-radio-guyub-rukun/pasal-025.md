@@ -1,0 +1,2 @@
+# Pasal 25
+Dalam melaksanakan tugasnya, setiap pemimpin dilingkungan Lembaga Penyiaran Publik Lokal Radio Guyub Rukun wajib menerapkan prinsip koordinasi, integrasi, dan sinkronisasi baik dalam lingkungan masing-masing maupun antar satuan organisasi Lembaga Penyiaran Publik Lokal Radio Guyub Rukun serta dengan instansi atau pihak lain di luar Lembaga Penyiaran Publik Lokal Radio Guyub Rukun sesuai dengan tugas masing-masing.

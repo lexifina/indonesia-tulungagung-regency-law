@@ -1,0 +1,12 @@
+# Pasal 29
+(1) Peserta didik jalur nonformal dan informal dapat diterima di SD, MI, atau bentuk lain yang sederajat tidak pada awal kelas 1 (satu) setelah lulus tes kelayakan dan penempatan yang diselenggarakan oleh satuan pendidikan formal yang bersangkutan.
+(2) Peserta didik jalur nonformal dan informal dapat diterima di SMP, MTs, atau bentuk lain yang sederajat sejak awal kelas 7 (tujuh) setelah lulus ujian kesetaraan Paket A.
+(3) Peserta didik jalur nonformal dan informal dapat diterima di SMP, MTs, atau bentuk lain yang sederajat tidak pada awal kelas 7 (tujuh) setelah memenuhi persyaratan:
+a. lulus ujian kesetaraan Paket A; dan b. lulus tes kelayakan dan penempatan yang diselenggarakan oleh satuan pendidikan formal yang bersangkutan.
+(4) Peserta didik pendidikan dasar setara SD di negara lain dapat pindah ke SD, MI, atau bentuk lain yang sederajat di Indonesia setelah memenuhi persyaratan lulus tes kelayakan dan penempatan yang diselenggarakan oleh satuan pendidikan yang bersangkutan.
+(5) Peserta didik pendidikan dasar setara SMP di negara lain dapat pindah ke SMP, MTs, atau bentuk lain yang sederajat di Indonesia setelah memenuhi persyaratan:
+a. menunjukkan ijazah atau dokumen lain yang membuktikan bahwa yang bersangkutan telah menyelesaikan pendidikan dasar setara SD; dan b. lulus tes kelayakan dan penempatan yang diselenggarakan oleh satuan pendidikan yang bersangkutan.
+(6) Peserta didik pendidikan dasar setara SD yang mengikuti sistem dan/atau standar pendidikan negara lain dapat diterima di SMP, MTs, atau bentuk lain yang sederajat pada awal tahun kelas 7 (tujuh) setelah memenuhi persyaratan:
+a. lulus ujian kesetaraan Paket A; atau b. dapat menunjukkan ijazah atau dokumen lain yang membuktikan bahwa yang bersangkutan telah menyelesaikan pendidikan dasar yang memberikan kompetensi lulusan setara SD.
+(7) SD, MI, SMP, MTs, atau bentuk lain yang sederajat memberikan bantuan penyesuaian akademik, sosial, dan/atau mental yang diperlukan oleh peserta didik berkelainan dan peserta didik pindahan dari satuan pendidikan formal lain atau jalur pendidikan lain.
+(8) Menteri dapat membatalkan keputusan satuan pendidikan tentang pemenuhan persyaratan pada pendidikan nonformal sebagaimana dimaksud pada ayat (3) sampai dengan ayat (6) apabila setelah dilakukan pemeriksaan oleh Inspektorat Jenderal Kementerian atas Instruksi Menteri terbukti bahwa keputusan tersebut melanggar ketentuan peraturan perundang-undangan, tidak benar, dan/atau tidakjujur.

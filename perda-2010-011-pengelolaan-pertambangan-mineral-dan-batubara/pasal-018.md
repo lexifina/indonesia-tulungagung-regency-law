@@ -1,0 +1,10 @@
+# Pasal 18
+Penggolongan komoditas dalam pertambangan mineral dan batubara terdiri atas 5 (lima) golongan sebagai berikut :
+a. mineral radioaktif meliputi radium, thorium, uranium, monasit, dan bahan galian radioaktif lainnya;
+b. mineral logam meliputi litium, berilium, magnesium, kalium, kalsium, emas, tembaga, perak, timbal, seng, timah, nikel, mangaan, platina, bismuth, molibdenum, bauksit, air raksa, wolfram, titanium, barit, vanadium, kromit, antimoni, kobalt, tantalum, cadmium, galium, indium, yitrium, magnetit, besi, galena, alumina, niobium, zirkonium, ilmenit, khrom, erbium, ytterbium, dysprosium, thorium, cesium, lanthanum, niobium, neodymium, hafnium, scandium, aluminium, palladium, rhodium, osmium, ruthenium, iridium, selenium, telluride, stronium, germanium, dan zenotin;
+c. mineral bukan logam meliputi intan, korundum, grafit, arsen, pasir kuarsa, fluorspar, kriolit, yodium, brom, klor, belerang, fosfat, halit, asbes, talk, mika, magnesit, yarosit, oker, fluorit, ball clay, fire clay, zeolit, kaolin, feldspar, bentonit, gipsum, dolomit, kalsit, rijang, pirofilit, kuarsit, zirkon, wolastonit, tawas, batu kuarsa, perlit, garam batu, clay, dan batu gamping untuk semen;
+d. mineral batuan meliputi pumice, tras, toseki, obsidian, marmer, perlit, tanah diatome, tanah serap (fullers earth), slate, granit, granodiorit, andesit, gabro, peridotit, basalt, trakhit, leusit, tanah liat, tanah urug, batu apung, opal, kalsedon, chert, kristal kuarsa, jasper, krisoprase, kayu terkersikan, gamet, giok, agat, diorit, topas, batu gunung quarry besar, kerikil galian dari bukit, kerikil sungai, batu kali, kerikil sungai ayak tanpa pasir, pasir urug, pasir pasang, kerikil berpasir alami (sirtu), bahan timbunan pilihan (tanah), urukan tanah setempat, tanah merah (laterit), batu gamping, onik, pasir laut, dan pasir yang tidak mengandung unsur mineral logam atau unsur mineral bukan logam dalam jumlah yang berarti ditinjau dari segi ekonomi pertambangan; dan e. batubara meliputi bitumen padat, batuan aspal, batubara, dan gambut.
+BAB VI
+IZIN USAHA PERTAMBANGAN
+Bagian Kesatu
+Umum

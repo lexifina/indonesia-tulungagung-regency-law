@@ -1,0 +1,116 @@
+# Penjelasan
+PENJELASAN
+ATAS
+PERATURAN DAERAH KABUPATEN TULUNGAGUNG
+NOMOR 10 TAHUN 2011
+TENTANG
+PENYELENGGARAAN PERPARKIRAN DI KABUPATEN TULUNGAGUNG
+I. UMUM
+Peraturan Daerah ini disusun berdasarkan Undang-Undang Nomor 32 Tahun 2004 tentang Pemerintahan Daerah sebagaimana telah diubah kedua kali dengan Undang-Undang Nomor 12 Tahun 2008 dan Peraturan Pemerintah Nomor 38 Tahun 2007 tentang Pembagian Urusan Pemerintahan antara Pemerintah, Pemerintah Daerah Provinsi dan Pemerintah daerah Kabupaten/Kota, yaitu mengatur mengenai kewenangan daerah dalam rangka penyelenggaraan perparkiran serta mengatur tentang pungutan retribusi parkir sebagaimana dimaksud dalam Undang-Undang Nomor 28 Tahun 2009 tentang Pajak Daerah dan Retribusi Daerah.
+Bahwa dengan diaturnya ketentuan mengenai penyelenggaraan perparkiran dan retribusi parkir dalam suatu Peraturan Daerah, diharapkan akan lebih efisien dan efektif dalam pelaksanaan penyelenggaraan perparkiran sehingga dapat mewujudkan ketertiban, keamanan dan kelancaran lalu lintas.
+Dengan berlakunya Peraturan Daerah ini, maka Peraturan Daerah Kabupaten Tulungagung Nomor 5 Tahun 2002 tentang Retribusi Parkir di Tepi Jalan Umum sebagaimana telah diubah terakhir kali dengan Peraturan Daerah Kabupaten Tulungagung Nomor 3 Tahun 2009 dan Peraturan Daerah Kabupaten Tulungagung Nomor 6 Tahun 2002 tentang Retribusi Tempat Khusus Parkir, dicabut dan dinyatakan tidak berlaku.
+II. PASAL DEMI PASAL
+Pasal 1
+cukup jelas
+Pasal 2
+cukup jelas
+Pasal 3
+cukup jelas
+Pasal 4
+cukup jelas
+Pasal 5
+cukup jelas
+Pasal 6
+cukup jelas
+Pasal 7
+cukup jelas
+Pasal 8
+cukup jelas
+Pasal 9
+cukup jelas
+Pasal 10
+cukup jelas
+Pasal 11
+cukup jelas
+Pasal 12
+cukup jelas
+Pasal 13
+cukup jelas
+Pasal 14
+cukup jelas
+Pasal 15
+cukup jelas
+Pasal 16
+cukup jelas
+Pasal 17
+cukup jelas
+Pasal 18
+cukup jelas
+Pasal 19
+cukup jelas
+Pasal 20
+cukup jelas
+Pasal 21
+cukup jelas
+Pasal 22
+cukup jelas
+Pasal 23
+cukup jelas
+Pasal 24
+cukup jelas
+Pasal 25
+cukup jelas
+Pasal 26
+cukup jelas
+Pasal 27
+cukup jelas
+Pasal 28
+cukup jelas
+Pasal 29
+cukup jelas
+Pasal 30
+cukup jelas
+Pasal 31
+cukup jelas
+Pasal 32
+cukup jelas
+Pasal 33
+cukup jelas
+Pasal 34
+cukup jelas
+Pasal 35
+cukup jelas
+Pasal 36
+cukup jelas
+Pasal 37
+cukup jelas
+Pasal 38
+cukup jelas
+Pasal 39
+cukup jelas
+Pasal 40
+cukup jelas
+Pasal 41
+cukup jelas
+Pasal 42
+cukup jelas
+Pasal 43
+cukup jelas
+Pasal 44
+cukup jelas
+Pasal 45
+cukup jelas
+Pasal 46
+cukup jelas
+Pasal 47
+cukup jelas
+Pasal 48
+cukup jelas
+Pasal 49
+cukup jelas
+Pasal 50
+cukup jelas
+Pasal 51
+cukup jelas
+Pasal 52
+cukup jelas

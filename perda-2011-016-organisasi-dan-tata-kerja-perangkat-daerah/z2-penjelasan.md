@@ -1,0 +1,134 @@
+# Penjelasan
+PENJELASAN ATAS PERATURAN DAERAH KABUPATEN TULUNGAGUNG NOMOR 16 TAHUN 2011
+TENTANG ORGANISASI DAN TATA KERJA PERANGKAT DAERAH
+I UMUM
+Dalam rangka pelaksanaan Undang-Undang Nomor 32 tahun 2004 tentang Pemerintahan Daerah sebagaimana telah beberapa kali diubah terakhir dengan Undang-Undang Nomor 12 Tahun 2008 tentang Perubahan Kedua atas Undang-Undang Nomor 32 Tahun 2004 tentang Pemerintah Daerah, dan Peraturan Pemerintah Nomor 41 Tahun 2007 tentang Organisai Perangkat Daerah, Peraturan Pemerintah Nomor 38 Tahun 2007 tentang Pembagian Urusan Pemerintah Antara Pemerintah, Pemerintah Daerah Provinsi dan Pemerintah Kabupaten / Kota, Peraturan Menteri Dalam Negeri nomor 57 Tahun 2007 tentang Petunjuk Tekis Penataan Oragnisasi Perangkat Daerah, Peraturan Menteri Dalam Negeri Nomor 64 Tahun 2007 tentang Pedoman Teknis Organisasi dan Tata Kerja Inspektorat Provinsi dan Kabupaten / Kota , Peraturan Menteri Dalam Negeri Nomor 56 Tahun 2010 tentang Perubahan Petunjuk Teknis Penataan Organisasi Perangkat Daerah, maka Organisasi dan Tata Kerja Perangkat Daerah Kabupaten Tulungagung dapat dibentuk guna meningkatkan penyelenggaraan pemerintahan dan pembangunan di Kabupetan Tulungagung yang lebih berdaya guna dan berhasil guna perlu ditetapkan kedudukan, tugas dan fungsi organisasi Perangkat Daerah sesuai dengan Peraturan Perundang – Undangan yang berlaku.
+Dengan ditetapkannya Peraturan Daerah ini, maka Peraturan Daerah Kabupaten Tulungagung Nomor 4 Tahun 2008, Nomor 5 Tahun 2008, Nomor 6 Tahun 2008 dan Nomor 8 Tahun 2008 dinyatakan dicabut dan disesuaikan :
+- Penyesuaian tersebut berdasarkan pertimbangan aspek efektifitas dan rasionalitas sesuai kebutuhan dan kemampuan daerah dengan mengutamakan prinsip koordinasi, integrasi, sinkronisasi dan simplikasi antar perangkat daerah dan cakupan tugas yang harus diwujudkan.
+- Penyesuaian yang signifikan dalam penataan organisasi perangkat daerah adalah :
+1. Perubahan Nomenklatur pada beberapa Dinas/Lembaga Teknis Daerah sesuai dengan perumpunan dalam Peraturan Pemerintah Nomor 41 Tahun 2007.
+2. Perubahan penurunan Eselon Kepala Bidang yang semula Eselon IIIa menjadi Eselon IIIb.
+- Penerapan perubahan eselon Kepala Bidang pada Dinas/Badan adalah :
+1. Kepala Bidang pada Dinas/Badan yang telah menduduki jabatan struktural sebelum Peraturan Daerah ini diundangkan tetap diberikan hak kepegawaian dan hak administrasi lainnya dalam jabatan struktural eselon IIIa, termasuk Kepala Bidang yang dimutasikan menjadi Kepala Bidang pada Dinas/Badan Organisasi Perangkat Daerah.
+2. Kepala Bidang pada Dinas/Badan yang menduduki jabatan struktural setelah Peraturan Daerah ini diundangkan diberikan hak kepegawaian dan hak administrasi lainnya dalam jabatan struktural eselon IIIb.
+II. PASAL DEMI PASAL
+Pasal 1
+Cukup jelas
+Pasal 2
+Cukup jelas
+Pasal 3
+Cukup jelas
+Pasal 4
+Cukup jelas
+Pasal 5
+Cukup jelas
+Pasal 6
+Cukup jelas
+Pasal 7
+Cukup jelas
+Pasal 8
+Cukup jelas
+Pasal 9
+Cukup jelas
+Pasal 10
+Cukup jelas
+Pasal 11
+Cukup jelas
+Pasal 12
+Cukup jelas
+Pasal 13
+Cukup jelas
+Pasal 14
+Cukup jelas
+Pasal 15
+Cukup jelas
+Pasal 16
+Cukup jelas
+Pasal 17
+Cukup jelas
+Pasal 18
+Cukup jelas
+Pasal 19
+Cukup jelas
+Pasal 20
+Cukup jelas
+Pasal 21
+Cukup jelas
+Pasal 22
+Cukup jelas
+Pasal 23
+Cukup jelas
+Pasal 24
+Cukup jelas
+Pasal 25
+Cukup jelas
+Pasal 26
+Cukup jelas
+Pasal 27
+Cukup jelas
+Pasal 28
+Cukup jelas
+Pasal 29
+Cukup jelas
+Pasal 30
+Cukup jelas
+Pasal 31
+Cukup jelas
+Pasal 32
+Cukup jelas
+Pasal 33
+Cukup jelas
+Pasal 34
+Cukup jelas
+Pasal 35
+Cukup jelas
+Pasal 36
+Cukup jelas
+Pasal 37
+Cukup jelas
+Pasal 38
+Cukup jelas
+Pasal 39
+Cukup jelas
+Pasal 40
+Cukup jelas
+Pasal 41
+Cukup jelas
+Pasal 42
+Cukup jelas
+Pasal 43
+Cukup jelas
+Pasal 44
+Cukup jelas
+Pasal 45
+Cukup jelas
+Pasal 46
+Cukup jelas
+Pasal 47
+Cukup jelas
+Pasal 48
+Cukup jelas
+Pasal 49
+Cukup jelas
+Pasal 50
+Cukup jelas
+Pasal 51
+Cukup jelas
+Pasal 52
+Cukup jelas
+Pasal 53
+Cukup jelas
+Pasal 54
+Cukup jelas
+Pasal 55
+Cukup jelas
+Pasal 56
+Cukup jelas
+Pasal 57
+Cukup jelas
+Pasal 58
+Cukup jelas
+Pasal 59
+Cukup jelas
+Pasal 60
+Cukup jelas

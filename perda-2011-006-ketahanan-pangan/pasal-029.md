@@ -1,0 +1,4 @@
+# Pasal 29
+(1) Pedoman Cara Produksi Pangan Segar yang Baik sebagaimana dimaksud dalam Pasal 27 huruf b adalah cara penanganan yang memperhatikan aspek-aspek keamanan pangan, antara lain dengan cara :
+a. mencegah tercemarnya pangan segar oleh cemaran biologis, kimia dan benda lain yang mengganggu, merugikan dan membahayakan kesehatan dari udara, tanah, air, pakan, pupuk, pestisida, obat hewan atau bahan lain yang digunakan dalam produksi pangan segar; atau b. mengendalikan kesehatan hewan dan tanaman agar tidak mengancam keamanan pangan atau tidak berpengaruh negatif terhadap pangan segar.
+(2) Pedoman Cara Produksi Pangan Segar yang Baik sebagaimana dimaksud pada ayat (1) ditetapkan oleh Dinas Pertanian Tanaman Pangan, Dinas Peternakan, Dinas Kelautan dan Perikanan, Dinas Kehutanan dan Perkebunan, dan Badan Ketahanan Pangan dan Penyuluhan sesuai dengan bidang tugas dan kewenangan masing-masing.

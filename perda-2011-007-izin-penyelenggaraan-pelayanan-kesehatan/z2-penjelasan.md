@@ -1,0 +1,166 @@
+# Penjelasan
+PENJELASAN ATAS PERATURAN DAERAH KABUPATEN TULUNGAGUNG NOMOR 7 TAHUN 2011
+TENTANG
+IZIN PENYELENGGARAAN PELAYANAN KESEHATAN
+I. UMUM
+Penyelenggaraan pelayanan kesehatan sebagai bentuk upaya kesehatan perlu untuk diawasi dan dibina, salah satu instrument untuk pengawasan pemerintah terhadap penyelenggara pelayanan kesehatan adalah dengan pemantauan penerbitan izin kepada setiap penyelenggara pelayanan kesehatan swasta. Adanya peraturan daerah ini diharapkan pengelolaan unit pelayanan kesehatan swasta dapat lebih tertib dan baik sehingga dapat meningkatkan derajat kesehatan masyarakat dan melindungi masyarakat dari kegiatan penyalahgunaan perizinan penyelenggaraan pelayanan kesehatan yang berakibat merugikan masyarakat.
+II. PASAL DEMI PASAL
+Pasal 1
+Cukup jelas.
+Pasal 2
+Huruf a Keadilan adalah asas yang mengutamakan keseimbangan hak dan kewajiban antara pemberi izin dan pemegang izin.
+Huruf b Kepastian hukum adalah asas yang meletakkan hukum dan ketentuan peraturan perundang-undangan yang berlaku sebagai dasar dalam setiap penerbitan izin.
+Huruf c Keterbukaan adalah asas yang membuka diri terhadap hak masyarakat untuk memperoleh informasi yang benar, jujur, dan tidak diskriminatif tentang penyelenggaraan perizinan dengan tetap memperhatikan perlindungan atas hak asasi pribadi, golongan dan rahasia negara.
+Huruf d Profesionalitas adalah asas yang mengutamakan keahlian yang berlandaskan kode etik dan ketentuan peraturan perundang-undangan yang berlaku.
+Huruf e Akuntabilitas adalah asas yang menentukan bahwa setiap kegiatan dan hasil akhir dari kegiatan penyelenggaraan perizinan harus dapat dipertanggungjawabkan sesuai dengan ketentuan peraturan perundang-undangan yang berlaku, norma agama, kesusilaan dan kepentingan umum.
+Pasal 3
+Cukup jelas.
+Pasal 4
+Cukup jelas.
+Pasal 5
+Cukup jelas.
+Pasal 6
+Cukup jelas.
+Pasal 7
+Cukup jelas.
+Pasal 8
+Cukup jelas.
+Pasal 9
+Cukup jelas.
+Pasal 10
+Cukup jelas.
+Pasal 11
+Cukup jelas.
+Pasal 12
+Cukup jelas.
+Pasal 13
+Cukup jelas.
+Pasal 14
+Cukup jelas .
+Pasal 15
+Cukup jelas.
+Pasal 16
+Cukup jelas
+Pasal 17
+Cukup jelas.
+Pasal 18
+Cukup jelas.
+Pasal 19
+Cukup jelas.
+Pasal 20
+Cukup jelas.
+Pasal21 Cukup jelas.
+Pasal 22
+Cukup jelas.
+Pasal 23
+Cukup jelas.
+Pasal 24
+Cukup jelas.
+Pasal 25
+Cukup jelas.
+Pasal 26
+Cukup jelas.
+Pasal 27
+Cukup jelas.
+Pasal 28
+Cukup jelas.
+Pasal 29
+Cukup jelas.
+Pasal 30
+Cukup jelas.
+Pasal 31
+Cukup jelas.
+Pasal 32
+Cukup jelas .
+Pasal 33
+Cukup jelas.
+Pasal 34
+Cukup jelas
+Pasal 35
+Cukup jelas.
+Pasal 36
+Cukup jelas.
+Pasal 37
+Cukup jelas.
+Pasal 38
+Cukup jelas.
+Pasal 39
+Cukup jelas.
+Pasal 40
+Cukup jelas.
+Pasal 41
+Cukup jelas.
+Pasal 42
+Cukup jelas.
+Pasal 43
+Cukup jelas.
+Pasal 44
+Cukup jelas.
+Pasal 45
+Cukup jelas.
+Pasal 46
+Cukup jelas.
+Pasal 47
+Cukup jelas.
+Pasal 48
+Cukup jelas.
+Pasal 49
+Cukup jelas.
+Pasal 50
+Cukup jelas .
+Pasal 51
+Cukup jelas.
+Pasal 52
+Cukup jelas
+Pasal 53
+Cukup jelas
+Pasal 54
+Cukup jelas
+Pasal 55
+Cukup jelas
+Pasal 56
+Cukup jelas
+Pasal 57
+Cukup jelas.
+Pasal 58
+Cukup jelas.
+Pasal 59
+Cukup jelas.
+Pasal 60
+Cukup jelas.
+Pasal 61
+Cukup jelas.
+Pasal 62
+Cukup jelas.
+Pasal 63
+Cukup jelas.
+Pasal 64
+Cukup jelas.
+Pasal 65
+Cukup jelas.
+Pasal 66
+Cukup jelas.
+Pasal 67
+Cukup jelas.
+Pasal 68
+Cukup jelas.
+Pasal 69
+Cukup jelas.
+Pasal 70
+Cukup jelas.
+Pasal 71
+Cukup jelas.
+Pasal 72
+Cukup jelas .
+Pasal 73
+Cukup jelas.
+Pasal 74
+Cukup jelas
+Pasal 75
+Cukup jelas.
+Pasal 76
+Cukup jelas.
+Pasal 77
+Cukup jelas.
+Pasal 78
+Cukup jelas.

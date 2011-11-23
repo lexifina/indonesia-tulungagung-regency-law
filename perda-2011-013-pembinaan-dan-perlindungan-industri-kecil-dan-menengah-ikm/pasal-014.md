@@ -1,0 +1,3 @@
+# Pasal 14
+(1) Setiap Perusahaan Industri yang telah memiliki IUI dapat menambah kapasitas produksi di atas 30 % (tiga puluh persen) dari kapasitas produksi yang diizinkan tanpa terlebih dahulu memiliki Izin Perluasan, sepanjang jenis produksinya sesuai dengan yang tercantum dalam IUI yang dimiliki, dan industrinya terbuka atau terbuka denga persyaratan bagi penanaman modal serta ditujukan seluruhnya untuk pasaran ekspor.
+(2) Ketentuan sebagaimana dimaksud pada ayat (1) diberikan selama-lamanya dalam waktu 6 (enam) bulan sejak dilakukan perluasan dan dalam waktu dimaksud Perusahaan Industri wajib memiliki izin Perluasan.

@@ -1,0 +1,6 @@
+# Pasal 9
+Hukuman disiplin ringan sebagaimana dimaksud dalam Pasal 5 ayat (2) dijatuhkan bagi pelanggaran terhadap larangan:
+1. memiliki, menjual, membeli, menggadaikan, menyewakan, atau meminjamkan barang-barang baik bergerak atau tidak bergerak, dokumen atau surat berharga milik negara, secara tidak sah sebagaimana dimaksud dalam Pasal 3 angka 5, apabila pelanggaran berdampak negatif pada unit kerja;
+2. melakukan kegiatan bersama dengan atasan, teman sejawat, bawahan, atau orang lain di dalam maupun di luar lingkungan kerjanya dengan tujuan untuk keuntungan pribadi, golongan, atau pihak lain yang secara langsung atau tidak langsung merugikan negara sebagaimana dimaksud dalam Pasal 3 angka 6, apabila pelanggaran berdampak negatif pada unit kerja;
+3. bertindak sewenang-wenang terhadap bawahannya, sebagaimana dimaksud dalam Pasal 3 angka 9, apabila pelanggaran dilakukan dengan tidak sengaja;
+4. melakukan suatu tindakan atau tidak melakukan suatu tindakan yang dapat menghalangi atau mempersulit salah satu pihak yang dilayani sehingga mengakibatkan kerugian bagi yang dilayani sebagaimana dimaksud dalam Pasal 3 angka 10, sesuai dengan ketentuan peraturan perundang-undangan; dan 5. menghalangi berjalannya tugas kedinasan, sebagaimana dimaksud dalam Pasal 3 angka 11, apabila pelanggaran berdampak negatif pada unit kerja.

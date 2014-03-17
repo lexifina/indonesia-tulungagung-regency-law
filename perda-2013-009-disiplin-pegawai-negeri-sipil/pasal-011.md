@@ -1,0 +1,15 @@
+# Pasal 11
+Hukuman disiplin berat sebagaimana dimaksud dalam Pasal 5 ayat (4) dijatuhkan bagi pelanggaran terhadap larangan:
+1. menyalahgunakan wewenang sebagaimana dimaksud dalam Pasal 3 angka 1;
+2. menjadi perantara untuk mendapatkan keuntungan pribadi dan/atau orang lain dengan menggunakan kewenangan orang lain sebagaimana dimaksud dalam Pasal 3 angka 2;
+3. tanpa izin Pemerintah menjadi pegawai atau bekerja untuk negara lain dan/atau lembaga atau organisasi internasional sebagaimana dimaksud dalam Pasal 3 angka 3;
+4. bekerja pada perusahaan asing, konsultan asing, atau lembaga swadaya masyarakat asing sebagaimana dimaksud dalam Pasal 3 angka 4;
+5. memiliki, menjual, membeli, menggadaikan, menyewakan, atau meminjamkan barang-barang baik bergerak atau tidak bergerak, dokumen atau surat berharga milik negara secara tidak sah sebagaimana dimaksud dalam Pasal 3 angka 5, apabila pelanggaran berdampak negatif pada pemerintah dan/atau negara;
+6. melakukan kegiatan bersama dengan atasan, teman sejawat, bawahan, atau orang lain di dalam maupun di luar lingkungan kerjanya dengan tujuan untuk keuntungan pribadi, golongan, atau pihak lain, yang secara langsung atau tidak langsung merugikan negara sebagaimana dimaksud dalam Pasal 3 angka 6, apabila pelanggaran berdampak negatif pada pemerintah dan/atau negara;
+7. memberi atau menyanggupi akan memberi sesuatu kepada siapapun baik secara langsung atau tidak langsung dan dengan dalih apapun untuk diangkat dalam jabatan sebagaimana dimaksud dalam Pasal 3 angka 7;
+8. menerima hadiah atau suatu pemberian apa saja dari siapapun juga yang berhubungan dengan jabatan dan/atau pekerjaannya sebagaimana dimaksud dalam Pasal 3 angka 8;
+9. melakukan suatu tindakan atau tidak melakukan suatu tindakan yang dapat menghalangi atau mempersulit salah satu pihak yang dilayani sehingga mengakibatkan kerugian bagi yang dilayani sebagaimana dimaksud dalam Pasal 3 angka 10, sesuai dengan ketentuan peraturan perundang-undangan;
+10. menghalangi berjalannya tugas kedinasan sebagaimana dimaksud dalam Pasal 3 angka 11, apabila pelanggaran berdampak negatif pada pemerintah dan/atau negara;
+11. memberikan dukungan kepada calon Presiden/Wakil Presiden, Dewan Perwakilan Rakyat, Dewan Perwakilan Daerah, atau Dewan Perwakilan Rakyat Daerah dengan cara sebagai peserta kampanye dengan menggunakan fasilitas negara, sebagaimana dimaksud dalam Pasal 3 angka 12 huruf d;
+12. memberikan dukungan kepada calon Presiden/Wakil Presiden dengan cara membuat keputusan dan/atau tindakan yang menguntungkan atau merugikan salah satu pasangan calon selama masa kampanye sebagaimana dimaksud dalam Pasal 3 angka 13 huruf a;
+13. memberikan dukungan kepada calon Kepala Daerah/Wakil Kepala Daerah, dengan cara menggunakan fasilitas yang terkait dengan jabatan dalam kegiatan kampanye dan/atau membuat keputusan dan/atau tindakan yang menguntungkan atau merugikan salah satu pasangan calon selama masa kampanye sebagaimana dimaksud dalam Pasal 3 angka 15 huruf b dan huruf c; dan

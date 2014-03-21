@@ -1,0 +1,65 @@
+# Penjelasan
+PENJELASAN ATAS PERATURAN DAERAH KABUPATEN TULUNGAGUNG NOMOR 17 TAHUN 2013 TENTANG PERLINDUNGAN TENAGA KERJA INDONESIA (TKI) KABUPATEN TULUNGAGUNG
+I. UMUM
+Setiap Warga Negara Indonesia berhak atas pekerjaan dan penghidupan yang layak bagi kemanusiaan. Namun pada kenyataannya, keterbatasan akan lowongan kerja di dalam negeri khususnya di daerah menyebabkan banyaknya Warga Negara Indonesia/TKI mencari pekerjaan ke luar negeri. Penempatan Tenaga Kerja Indonesia Kabupatane Tulungagung ke luar negeri merupakan salah satu upaya untuk mengatasi pengangguran dan keterbatasan lapangan kerja di dalam negeri/daerah dengan memanfaatkan pasar kerja internasional melalui peningkatan kualitas kompetensi tenaga kerja.
+Besarnya minat masyarakat untuk bekerja di luar negeri dan besarnya jumlah TKI yang sedang bekerja di luar negeri di satu sisi mempunyai sisi positif, yaitu disamping mengurangi pengangguran dan meningkatkan kesejahteraan TKI dan keluarganya, tetapi disisi lain menimbulkan aspek negative berupa resiko kemungkinan terjadinya perlakuan yang tidak manusiawi terhadap TKI. Resiko tersebut dapat dialami oleh TKI baik selama proses keberangkatan sampai dengan setelah pulang ke daerah.
+Perlindungan terhadap tenaga kerja Kabupaten Tulungagung merupakan upaya peningkatan kualitas kehidupan dan kesejahteraan serta penghormatan terhadap harkat martabatnya, sehingga perlu dilaksanakan secara optimal dimulai sejak sebelum keberangkatan sampai dengan tiba kembali di Kabupaten Tulungagung. Dengan demikian perlu dilakukan pengaturan agar resiko perlakuan yang tidak manusiawi terhadap TKI dapat dihindari dan mampu memperoleh perlindungan yang optimal.
+II. PASAL DEMI PASAL
+Pasal 1
+Cukup jelas.
+Pasal 2
+Cukup jelas.
+Pasal 3
+Cukup jelas.
+Pasal 4
+Cukup jelas.
+Pasal 5
+Cukup jelas.
+Pasal 6
+Cukup jelas.
+Pasal 7
+Cukup jelas.
+Pasal 8
+Cukup jelas
+Pasal 9
+Cukup jelas.
+Pasal 10
+Cukup jelas.
+Pasal 11
+Cukup jelas
+Pasal 12
+Cukup jelas.
+Pasal 13
+Cukup jelas
+Pasal 14
+Cukup jelas
+Pasal 15
+Cukup jelas
+Pasal 16
+Cukup jelas.
+Pasal 17
+Cukup jelas
+Pasal 18
+Cukup jelas.
+Pasal 19
+Cukup jelas.
+Pasal 20
+Cukup jelas
+Pasal 21
+Cukup jelas.
+Pasal 22
+Cukup jelas
+Pasal 23
+Cukup jelas
+Pasal 24
+Cukup jelas
+Pasal 25
+Cukup jelas.
+Pasal 26
+Cukup jelas
+Pasal 27
+Cukup jelas.
+Pasal 28
+Cukup jelas.
+Pasal 29
+Cukup jelas.

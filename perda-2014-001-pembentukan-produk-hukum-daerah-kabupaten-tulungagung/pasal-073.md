@@ -1,0 +1,2 @@
+# Pasal 73
+Bupati menyampaikan Rancangan Perda tentang APBD, Perubahan APBD, dan Pertanggungjawaban APBD, Pajak Daerah, dan Retribusi Daerah serta Tata Ruang Daerah paling lama 3 (tiga) hari setelah mendapat persetujuan bersama dengan DPRD termasuk rancangan Perbup tentang penjabaran APBD, penjabaran perubahan APBD, dan Penjabaran Pertanggungjawaban APBD kepada Gubernur untuk mendapatkan evaluasi.

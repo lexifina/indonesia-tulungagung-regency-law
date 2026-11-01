@@ -1,0 +1,60 @@
+{
+ "parts": {
+  "20-perda-01.json": {
+   "acts": [
+    "perda-2009-012-penyelenggaraan-izin-lokasi",
+    "perda-2010-003-pengelolaan-dan-penyelenggaraan-pendidikan",
+    "perda-2010-004-pencabutan-peraturan-daerah-kabupaten-tulungagung-nomor-47-tahun-2001",
+    "perda-2010-007-perubahan-atas-peraturan-daerah-kabupaten-tulungagung-nomor-7-tahun",
+    "perda-2010-008-penyelenggaraaan-pelayanan-pada-rumah-sakit-umum-daerah-dr-iskak",
+    "perda-2010-010-pembentukan-peraturan-daerah-kabupaten-tulungagung",
+    "perda-2010-011-pengelolaan-pertambangan-mineral-dan-batubara",
+    "perda-2010-013-pembentukan-lembaga-penyiaran-publik-lokal-radio-guyub-rukun",
+    "perda-2010-014-bantuan-keuangan-kepada-partai-politik-kabupaten-tulungagung",
+    "perda-2010-016-pajak-daerah",
+    "perda-2010-018-pengendalian-menara-telekomunikasi",
+    "perda-2010-023-penyelenggaraan-pasar-grosir-dan-atau-pertokoan-di-kabupaten",
+    "perda-2011-005-pembentukan-dan-penyelenggaraan-badan-penanggulangan-bencana-daerah",
+    "perda-2011-006-ketahanan-pangan",
+    "perda-2011-007-izin-penyelenggaraan-pelayanan-kesehatan",
+    "perda-2011-008-penyertaan-modal-pemerintah-kabupaten-tulungagung-pada-perusahaan",
+    "perda-2011-009-pembentukan-dana-cadangan-pemilihan-kepala-daerah-dan-wakil-kepala",
+    "perda-2011-010-penyelenggaraan-perparkiran-di-kabupaten-tulungagung",
+    "perda-2011-013-pembinaan-dan-perlindungan-industri-kecil-dan-menengah-ikm",
+    "perda-2011-014-penyertaan-modal-pemerintah-kabupaten-tulungagung-pada-pt-bank",
+    "perda-2011-015-pengelolaan-cagar-budaya-daerah",
+    "perda-2011-016-organisasi-dan-tata-kerja-perangkat-daerah",
+    "perda-2011-017-organisasi-dan-tata-kerja-satuan-polisi-pamong-praja",
+    "perda-2012-001-retribusi-tempat-pelelangan-ikan",
+    "perda-2012-010-perrlindungan-mata-air"
+   ],
+   "sha256": "a56674dbf91628db7ea0f92db3aac96a868ce2ba1002029eee857183e0d01fec"
+  },
+  "20-perda-02.json": {
+   "acts": [
+    "perda-2012-008-sistem-resi-gudang",
+    "perda-2013-003-pengumpulan-sumbangan-oleh-masyarakat",
+    "perda-2013-004-pemberdayaan-dan-perlindungan-koperasi-usaha-mikro-kecil-dan-menengah",
+    "perda-2013-005-keterbukaan-informasi-publik",
+    "perda-2013-007-pemanfaatan-bagian-jalan",
+    "perda-2013-008-perubahan-atas-peraturan-daerah-kabupaten-tulungagung-nomor-5-tahun",
+    "perda-2013-009-disiplin-pegawai-negeri-sipil",
+    "perda-2013-011-perubahan-kedua-atas-peraturan-daerah-kabupaten-tulungagung-nomor-10",
+    "perda-2013-012-perubahan-kedua-atas-peraturan-daerah-kabupaten-tulungagung-nomor-5",
+    "perda-2013-013-penerimaan-sumbangan-pihak-ketiga-kepada-daerah",
+    "perda-2013-014-pengelolaan-pupuk-organik-dan-pupuk-hayati",
+    "perda-2013-017-perlindungan-tenaga-kerja-indonesia-tki-kabupaten-tulungagung",
+    "perda-2013-018-bagian-desa-dari-hasil-penerimaan-pajak-daerah-dan-retribusi-daerah",
+    "perda-2014-001-pembentukan-produk-hukum-daerah-kabupaten-tulungagung",
+    "perda-2014-006-perubahan-atas-peraturan-daerah-kabupaten-tulungagung-nomor-9-tahun",
+    "perda-2014-008-perubahan-atas-peraturan-daerah-kabupaten-tulungagung-nomor-4-tahun",
+    "perda-2014-009-organisasi-dan-tata-kerja-perangkat-daerah",
+    "perda-2014-010-perubahan-kedua-atas-peraturan-daerah-nomor-5-tahun-2011-tentang",
+    "perda-2023-002-perubahan-keempat-atas-peraturan-daerah-nomor-20-tahun-2016-tentang",
+    "perda-2023-003-perubahan-kedua-atas-peraturan-daerah-nomor-4-tahun-2017-tentang"
+   ],
+   "sha256": "139f3d20f1cb56163bb3b6aa2ae446ff6d1ef37f1462aa04d29262196b5e148c"
+  }
+ },
+ "schema": 1
+}

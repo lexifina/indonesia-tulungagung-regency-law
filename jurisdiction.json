@@ -1,0 +1,9 @@
+{
+  "path": "id-ji-tulungagung",
+  "code": "ID-JI-TULUNGAGUNG",
+  "name": "Tulungagung Regency (Indonesia)",
+  "level": "regency",
+  "parent": "id-ji",
+  "repo": "https://github.com/lexifina/indonesia-tulungagung-regency-law",
+  "build": "built: Peraturan Daerah (Perda) of Kabupaten Tulungagung as enacted, Indonesian text, from JDIH Kabupaten Tulungagung (Bagian Hukum Sekretariat Daerah Kabupaten Tulungagung)"
+}

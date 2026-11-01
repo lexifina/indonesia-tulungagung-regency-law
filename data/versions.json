@@ -1,0 +1,635 @@
+{
+ "country": "ID-JI-TULUNGAGUNG",
+ "acts": [
+  {
+   "slug": "perda-2009-012-penyelenggaraan-izin-lokasi",
+   "short": "Perda Tulungagung Regency 12/2009",
+   "title": "PERATURAN DAERAH KABUPATEN TULUNGAGUNG NOMOR 12 TAHUN 2009 TENTANG PENYELENGGARAAN IZIN LOKASI",
+   "url": "https://jdih.tulungagung.go.id/peraturan/1087",
+   "versions": [
+    {
+     "from": "2009-09-29",
+     "units": 35,
+     "source_url": "https://jdih.tulungagung.go.id/storage/peraturan/PERDA_NO_12_TAHUN_2009_TENTANG_PENYELENGGARAAN_IZIN_LOKASI.pdf",
+     "sha256": "ded4c6b0f2228ef044e8be5bfd853bed95592ca53d0048bcb90efd05f865f751"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2010-007-perubahan-atas-peraturan-daerah-kabupaten-tulungagung-nomor-7-tahun",
+   "short": "Perda Tulungagung Regency 7/2010",
+   "title": "PERATURAN DAERAH KABUPATEN TULUNGAGUNG NOMOR 7 TAHUN 2010 TENTANG PERUBAHAN ATAS PERATURAN DAERAH KABUPATEN TULUNGAGUNG NOMOR 7 TAHUN 2009 TENTANG TATA CARA PENCALONAN, PENGANGKATAN, PELANTIKAN DAN PEMBERHENTIAN PERANGKAT DESA",
+   "url": "https://jdih.tulungagung.go.id/peraturan/1225",
+   "versions": [
+    {
+     "from": "2010-12-02",
+     "units": 5,
+     "source_url": "https://jdih.tulungagung.go.id/storage/peraturan/PERDA_NO_7_TAHUN_2010_TENTANG_PERUBAHAN_PERDA_NO_7_TAHUN_2009_TENTANG_PERANGKAT_DESA.pdf",
+     "sha256": "52569227c1ed84cdad38a22227740a32cf2f7b1a97416261edceffb4a22611c4"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2010-014-bantuan-keuangan-kepada-partai-politik-kabupaten-tulungagung",
+   "short": "Perda Tulungagung Regency 14/2010",
+   "title": "PERATURAN DAERAH KABUPATEN TULUNGAGUNG NOMOR 14 TAHUN 2010 TENTANG BANTUAN KEUANGAN KEPADA PARTAI POLITIK KABUPATEN TULUNGAGUNG",
+   "url": "https://jdih.tulungagung.go.id/peraturan/1232",
+   "versions": [
+    {
+     "from": "2010-12-02",
+     "units": 17,
+     "source_url": "https://jdih.tulungagung.go.id/storage/peraturan/PERDA_NO_14_TAHUN_2010_TENTANG_BANTUAN_KEUANGAN_PADA_PARPOL.pdf",
+     "sha256": "4cf4b106f4e2f1255ff9220a44893cdba1bf429e2f3cb1c1d19231bfa131b74b"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2010-018-pengendalian-menara-telekomunikasi",
+   "short": "Perda Tulungagung Regency 18/2010",
+   "title": "PERATURAN DAERAH KABUPATEN TULUNGAGUNG NOMOR 18 TAHUN 2010 TENTANG PENGENDALIAN MENARA TELEKOMUNIKASI",
+   "url": "https://jdih.tulungagung.go.id/peraturan/1235",
+   "versions": [
+    {
+     "from": "2010-12-02",
+     "units": 53,
+     "source_url": "https://jdih.tulungagung.go.id/storage/peraturan/PERDA_NO_18_TAHUN_2010_TENTANG_PENGENDALIAN_MENARA_TELEKOMUNIKASI.pdf",
+     "sha256": "28da794a5027b93bf8392326c6a1bea497ec3f4027a2e9ca002b7800501a04b6"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2010-003-pengelolaan-dan-penyelenggaraan-pendidikan",
+   "short": "Perda Tulungagung Regency 3/2010",
+   "title": "PERATURAN DAERAH KABUPATEN TULUNGAGUNG NOMOR 3 TAHUN 2010 TENTANG PENGELOLAAN DAN PENYELENGGARAAN PENDIDIKAN",
+   "url": "https://jdih.tulungagung.go.id/peraturan/1221",
+   "versions": [
+    {
+     "from": "2010-12-17",
+     "units": 131,
+     "source_url": "https://jdih.tulungagung.go.id/storage/peraturan/PERDA_NO_3_TAHUN_2010_TENTANG_PENGELOLAAN_DAN_PENYELENGGARAAN_PENDIDIKAN.pdf",
+     "sha256": "534c9532c3d171209720e264dafb0a58afe233c669614b5ce429a2137991aeef"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2010-004-pencabutan-peraturan-daerah-kabupaten-tulungagung-nomor-47-tahun-2001",
+   "short": "Perda Tulungagung Regency 4/2010",
+   "title": "PERATURAN DAERAH KABUPATEN TULUNGAGUNG NOMOR 4 TAHUN 2010 TENTANG PENCABUTAN PERATURAN DAERAH KABUPATEN TULUNGAGUNG NOMOR 47 TAHUN 2001 TENTANG RETRIBUSI IJIN DISPENSASI KENDARAAN ANGKUTAN BARANG/TRUK DAN PERATURAN DAERAH KABUPATEN TULUNGAGUNG NOMOR 48 TAHUN 2001 TENTANG RETRIBUSI TUBERKULINASI PADA SAPI PERAH",
+   "url": "https://jdih.tulungagung.go.id/peraturan/1222",
+   "versions": [
+    {
+     "from": "2010-12-17",
+     "units": 5,
+     "source_url": "https://jdih.tulungagung.go.id/storage/peraturan/PERDA_NO_4_TAHUN_2010_TENTANG_PENCABUTAN_PERDA_NO_47_TAHUN_2001_DAN_NO_48_TAHUN_2001.pdf",
+     "sha256": "911446800ee0c6d60ecb8aa11485d710e091c3e2c2684d6fcfb6a81e9a1227d1"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2010-008-penyelenggaraaan-pelayanan-pada-rumah-sakit-umum-daerah-dr-iskak",
+   "short": "Perda Tulungagung Regency 8/2010",
+   "title": "PERATURAN DAERAH KABUPATEN TULUNGAGUNG NOMOR 8 TAHUN 2010 TENTANG PENYELENGGARAAAN PELAYANAN PADA RUMAH SAKIT UMUM DAERAH Dr. ISKAK TULUNGAGUNG",
+   "url": "https://jdih.tulungagung.go.id/peraturan/1226",
+   "versions": [
+    {
+     "from": "2010-12-17",
+     "units": 58,
+     "source_url": "https://jdih.tulungagung.go.id/storage/peraturan/PERDA_NO_8_TAHUN_2010_TENTANG_PENYELENGGARAAN_PELAYANAN_RSUD_DOKTER_ISKAK.pdf",
+     "sha256": "afd2fe16fdd9df2de4f0ab18ecc00ce9f88acab9314ad3aaef88fbbb10bb6460"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2010-010-pembentukan-peraturan-daerah-kabupaten-tulungagung",
+   "short": "Perda Tulungagung Regency 10/2010",
+   "title": "PERATURAN DAERAH KABUPATEN TULUNGAGUNG NOMOR 10 TAHUN 2010 TENTANG PEMBENTUKAN PERATURAN DAERAH KABUPATEN TULUNGAGUNG",
+   "url": "https://jdih.tulungagung.go.id/peraturan/1228",
+   "versions": [
+    {
+     "from": "2010-12-17",
+     "units": 35,
+     "source_url": "https://jdih.tulungagung.go.id/storage/peraturan/PERDA_NO_10_TAHUN_2010_TENTANG_PEMBENTUKAN_PERDA.pdf",
+     "sha256": "2280536e1216b6b26a5e6e96449b58f6b89f1d0fc888bc41c458b0db56a77404"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2010-011-pengelolaan-pertambangan-mineral-dan-batubara",
+   "short": "Perda Tulungagung Regency 11/2010",
+   "title": "PERATURAN DAERAH KABUPATEN TULUNGAGUNG NOMOR 11 TAHUN 2010 TENTANG PENGELOLAAN PERTAMBANGAN MINERAL DAN BATUBARA",
+   "url": "https://jdih.tulungagung.go.id/peraturan/1229",
+   "versions": [
+    {
+     "from": "2010-12-17",
+     "units": 152,
+     "source_url": "https://jdih.tulungagung.go.id/storage/peraturan/PERDA_NO_11_TAHUN_2010_TENTANG_PENGELOLAAN_PERTAMBANGAN_MINERAL.pdf",
+     "sha256": "dde171659d7d7209f248a1b4c160d64a02f7d9ec41488ffbff524c7dfc27a4ee"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2010-013-pembentukan-lembaga-penyiaran-publik-lokal-radio-guyub-rukun",
+   "short": "Perda Tulungagung Regency 13/2010",
+   "title": "PERATURAN DAERAH KABUPATEN TULUNGAGUNG NOMOR 13 TAHUN 2010 TENTANG PEMBENTUKAN LEMBAGA PENYIARAN PUBLIK LOKAL RADIO GUYUB RUKUN",
+   "url": "https://jdih.tulungagung.go.id/peraturan/1231",
+   "versions": [
+    {
+     "from": "2010-12-17",
+     "units": 46,
+     "source_url": "https://jdih.tulungagung.go.id/storage/peraturan/PERDA_NO_13_TAHUN_2010_TENTANG_LPPL_RADIO_GUYUB_RUKUN.pdf",
+     "sha256": "8269bbe027e08dadb3e5596d4a523bbb37597734dc145886662dab0b43a17e46"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2010-023-penyelenggaraan-pasar-grosir-dan-atau-pertokoan-di-kabupaten",
+   "short": "Perda Tulungagung Regency 23/2010",
+   "title": "PERATURAN DAERAH KABUPATEN TULUNGAGUNG NOMOR 23 TAHUN 2010 TENTANG PENYELENGGARAAN PASAR GROSIR DAN / ATAU PERTOKOAN DI KABUPATEN TULUNGAGUNG",
+   "url": "https://jdih.tulungagung.go.id/peraturan/1239",
+   "versions": [
+    {
+     "from": "2010-12-20",
+     "units": 26,
+     "source_url": "https://jdih.tulungagung.go.id/storage/peraturan/PERDA_NO_23_TAHUN_2010_TENTANG_PENYELENGGARAAN_PASAR_GROSIR.pdf",
+     "sha256": "e9ac340e220bb586c4d8794f0aa1c41eb9381ebe621601c9c457a17d4f33a3f5"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2010-016-pajak-daerah",
+   "short": "Perda Tulungagung Regency 16/2010",
+   "title": "PERATURAN DAERAH KABUPATEN TULUNGAGUNG NOMOR 16 TAHUN 2010 TENTANG PAJAK DAERAH",
+   "url": "https://jdih.tulungagung.go.id/peraturan/1233",
+   "versions": [
+    {
+     "from": "2011-01-01",
+     "units": 126,
+     "source_url": "https://jdih.tulungagung.go.id/storage/peraturan/PERDA_NO_16_TAHUN_2010_TENTANG_PAJAK_DAERAH.pdf",
+     "sha256": "c507f9b6f2dfb612b5f1005f1ac0eb8e1057accfe45802cb08ae1fc33b40e040"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2011-010-penyelenggaraan-perparkiran-di-kabupaten-tulungagung",
+   "short": "Perda Tulungagung Regency 10/2011",
+   "title": "PERATURAN DAERAH KABUPATEN TULUNGAGUNG NOMOR 10 TAHUN 2011 TENTANG PENYELENGGARAAN PERPARKIRAN DI KABUPATEN TULUNGAGUNG",
+   "url": "https://jdih.tulungagung.go.id/peraturan/1247",
+   "versions": [
+    {
+     "from": "2011-07-15",
+     "units": 55,
+     "source_url": "https://jdih.tulungagung.go.id/storage/peraturan/PERDA_NO_10_TAHUN_2011_TENTANG_PERPARKIRAN.pdf",
+     "sha256": "8902fa2253cc19f910fb4ad0dbcae3e3ea500401f3f3d617ace1ee516ecb0094"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2011-005-pembentukan-dan-penyelenggaraan-badan-penanggulangan-bencana-daerah",
+   "short": "Perda Tulungagung Regency 5/2011",
+   "title": "PERATURAN DAERAH KABUPATEN TULUNGAGUNG NOMOR 5 TAHUN 2011 TENTANG PEMBENTUKAN DAN PENYELENGGARAAN BADAN PENANGGULANGAN BENCANA DAERAH KABUPATEN TULUNGAGUNG",
+   "url": "https://jdih.tulungagung.go.id/peraturan/1242",
+   "versions": [
+    {
+     "from": "2011-07-21",
+     "units": 99,
+     "source_url": "https://jdih.tulungagung.go.id/storage/peraturan/PERDA_NO_5_TAHUN_2011_TENTANG_PEMBENTUKAN_DAN_PENYELENGGARAAN_BADAN_PENANGGULANGAN_BENCANA_DAERAH_KABUPATEN_TULUNGAGUNG.pdf",
+     "sha256": "80e88f7cc7be4dc07ae80b80b215589e401ff3c291deafbb2ff3baf3b87671bf"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2011-008-penyertaan-modal-pemerintah-kabupaten-tulungagung-pada-perusahaan",
+   "short": "Perda Tulungagung Regency 8/2011",
+   "title": "PERATURAN DAERAH KABUPATEN TULUNGAGUNG NOMOR 8 TAHUN 2011 TENTANG PENYERTAAN MODAL PEMERINTAH KABUPATEN TULUNGAGUNG PADA PERUSAHAAN DAERAH AIR MINUM (PDAM)” TULUNGAGUNG “ KABUPATEN TULUNGAGUNG",
+   "url": "https://jdih.tulungagung.go.id/peraturan/1245",
+   "versions": [
+    {
+     "from": "2011-07-21",
+     "units": 14,
+     "source_url": "https://jdih.tulungagung.go.id/storage/peraturan/PERDA_NO_8_TAHUN_2011_TENTANG_PENYERTAAN_MODAL_PEMKAB_PADA_(PDAM).pdf",
+     "sha256": "32a73cfe5f12c3aab17cec6c2777f4b885d262461b625dcd3383bb35f8b011e5"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2011-009-pembentukan-dana-cadangan-pemilihan-kepala-daerah-dan-wakil-kepala",
+   "short": "Perda Tulungagung Regency 9/2011",
+   "title": "PERATURAN DAERAH KABUPATEN TULUNGAGUNG NOMOR 9 TAHUN 2011 TENTANG PEMBENTUKAN DANA CADANGAN PEMILIHAN KEPALA DAERAH DAN WAKIL KEPALA DAERAH KABUPATEN TULUNGAGUNG TAHUN 2013",
+   "url": "https://jdih.tulungagung.go.id/peraturan/1246",
+   "versions": [
+    {
+     "from": "2011-08-02",
+     "units": 13,
+     "source_url": "https://jdih.tulungagung.go.id/storage/peraturan/PERDA_NO_9_TAHUN_2011_TENTANG_PEMBENTUKAN_DANA_CADANGAN_PEMILIHAN_KEPALA_DAERAH_DAN_WAKIL_KEPALA_DAERAH_KABUPATEN_TULUNGAGUNG_TAHUN_2013.pdf",
+     "sha256": "18769d5c10fb22a375a5d5d17d0a6314e508f2ac8deb0ffda37e82dea4fbff8b"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2011-016-organisasi-dan-tata-kerja-perangkat-daerah",
+   "short": "Perda Tulungagung Regency 16/2011",
+   "title": "PERATURAN DAERAH KABUPATEN TULUNGAGUNG NOMOR 16 TAHUN 2011 TENTANG ORGANISASI DAN TATA KERJA PERANGKAT DAERAH",
+   "url": "https://jdih.tulungagung.go.id/peraturan/1251",
+   "versions": [
+    {
+     "from": "2011-09-20",
+     "units": 63,
+     "source_url": "https://jdih.tulungagung.go.id/storage/peraturan/PERDA_NO_16_TAHUN_2011_TENTANG_ORGANISASI_DAN_TATA_KERJA_PERANGKAT_DAERAH.pdf",
+     "sha256": "91d80d22c597b7f778ccef316e0b5874144e673bce086474fd306ef178733dd3"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2011-017-organisasi-dan-tata-kerja-satuan-polisi-pamong-praja",
+   "short": "Perda Tulungagung Regency 17/2011",
+   "title": "PERATURAN DAERAH KABUPATEN TULUNGAGUNG NOMOR 17 TAHUN 2011 TENTANG ORGANISASI DAN TATA KERJA SATUAN POLISI PAMONG PRAJA",
+   "url": "https://jdih.tulungagung.go.id/peraturan/1252",
+   "versions": [
+    {
+     "from": "2011-09-20",
+     "units": 25,
+     "source_url": "https://jdih.tulungagung.go.id/storage/peraturan/PERDA_NO_17_TAHUN_2011_TENTANG_ORGANISASI_DAN_TATA_KERJA_SATUAN_POL_PP.pdf",
+     "sha256": "c285d6a28e52116684ad44b24ba4022de6fae2d004ae14d7dd999ae0fd72dc1b"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2011-006-ketahanan-pangan",
+   "short": "Perda Tulungagung Regency 6/2011",
+   "title": "PERATURAN DAERAH KABUPATEN TULUNGAGUNG NOMOR 6 TAHUN 2011 TENTANG KETAHANAN PANGAN",
+   "url": "https://jdih.tulungagung.go.id/peraturan/1243",
+   "versions": [
+    {
+     "from": "2011-11-23",
+     "units": 76,
+     "source_url": "https://jdih.tulungagung.go.id/storage/peraturan/PERDA_NO_6_TAHUN_2011_TENTANG__KETAHANAN_PANGAN.pdf",
+     "sha256": "921b1af7ef2f074b29e1ee5baa4e62c494a0f89137a40f24d2389be3840755ba"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2011-007-izin-penyelenggaraan-pelayanan-kesehatan",
+   "short": "Perda Tulungagung Regency 7/2011",
+   "title": "PERATURAN DAERAH KABUPATEN TULUNGAGUNG NOMOR 7 TAHUN 2011 TENTANG IZIN PENYELENGGARAAN PELAYANAN KESEHATAN",
+   "url": "https://jdih.tulungagung.go.id/peraturan/1244",
+   "versions": [
+    {
+     "from": "2011-11-23",
+     "units": 69,
+     "source_url": "https://jdih.tulungagung.go.id/storage/peraturan/PERDA_NO_7_TAHUN_2011_TENTANG__IZIN_PENYELENGGARAAN_PELAYANAN_KESEHATAN.pdf",
+     "sha256": "ad46c9a61d5901f8bc582503dcacb016f74b384780fa5749d712eacc5d53f0ca"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2011-013-pembinaan-dan-perlindungan-industri-kecil-dan-menengah-ikm",
+   "short": "Perda Tulungagung Regency 13/2011",
+   "title": "PERATURAN DAERAH KABUPATEN TULUNGAGUNG NOMOR 13 TAHUN 2011 TENTANG PEMBINAAN DAN PERLINDUNGAN INDUSTRI KECIL DAN MENENGAH (IKM)",
+   "url": "https://jdih.tulungagung.go.id/peraturan/1248",
+   "versions": [
+    {
+     "from": "2011-11-23",
+     "units": 54,
+     "source_url": "https://jdih.tulungagung.go.id/storage/peraturan/PERDA_NO_13_TAHUN_2011_TENTANG_PEMBINAAN_DAN_PERLINDUNGAN_INDUSTRI_KECIL_DAN_MENENGAH_(IKM).pdf",
+     "sha256": "13cb87f9a5c1751aff9dff82462f08d9606b6502b74fd21f1f367f03427644f3"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2011-014-penyertaan-modal-pemerintah-kabupaten-tulungagung-pada-pt-bank",
+   "short": "Perda Tulungagung Regency 14/2011",
+   "title": "PERATURAN DAERAH KABUPATEN TULUNGAGUNG NOMOR 14 TAHUN 2011 TENTANG PENYERTAAN MODAL PEMERINTAH KABUPATEN TULUNGAGUNG PADA PT. BANK PERKREDITAN RAKYAT JAWA TIMUR",
+   "url": "https://jdih.tulungagung.go.id/peraturan/1249",
+   "versions": [
+    {
+     "from": "2011-11-23",
+     "units": 14,
+     "source_url": "https://jdih.tulungagung.go.id/storage/peraturan/PERDA_NO_14_TAHUN_2011_TENTANG_PENYERTAAN_MODAL_PEMKAB_PADA_PT._BANK_PERKREDITAN_RAKYAT_JAWA_TIMUR.pdf",
+     "sha256": "c722cf3ba0f3de95c19ac4498ea589c732cdd11d2dd4573d2cf2fbfee8ccdf71"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2011-015-pengelolaan-cagar-budaya-daerah",
+   "short": "Perda Tulungagung Regency 15/2011",
+   "title": "PERATURAN DAERAH KABUPATEN TULUNGAGUNG NOMOR 15 TAHUN 2011 TENTANG PENGELOLAAN CAGAR BUDAYA DAERAH",
+   "url": "https://jdih.tulungagung.go.id/peraturan/1250",
+   "versions": [
+    {
+     "from": "2011-11-23",
+     "units": 48,
+     "source_url": "https://jdih.tulungagung.go.id/storage/peraturan/PERDA_No_15_TAHUN_2011_TENTANG_PENGELOLAAN_CAGAR_BUDAYA_DAERAH.pdf",
+     "sha256": "d3dc9977403a4a8dac5b6997a9fd3b7defec02f0ac31ec0fbeb8a7f0920f63e6"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2012-001-retribusi-tempat-pelelangan-ikan",
+   "short": "Perda Tulungagung Regency 1/2012",
+   "title": "PERATURAN DAERAH KABUPATEN TULUNGAGUNG NOMOR 1 TAHUN 2012 TENTANG RETRIBUSI TEMPAT PELELANGAN IKAN",
+   "url": "https://jdih.tulungagung.go.id/peraturan/1278",
+   "versions": [
+    {
+     "from": "2012-03-26",
+     "units": 36,
+     "source_url": "https://jdih.tulungagung.go.id/storage/peraturan/PERDA_NO_1_TAHUN_2012_TENTANG_RETRIBUSI_TEMPAT_PELELANGAN_IKAN.pdf",
+     "sha256": "c15ec5f0e174fc5dd3f4d2ccc06cafebeb71d94b4599fda201900a0caa10a873"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2012-010-perrlindungan-mata-air",
+   "short": "Perda Tulungagung Regency 10/2012",
+   "title": "PERATURAN DAERAH KABUPATEN TULUNGAGUNG NOMOR 10 TAHUN 2012 TENTANG PERRLINDUNGAN MATA AIR",
+   "url": "https://jdih.tulungagung.go.id/peraturan/1286",
+   "versions": [
+    {
+     "from": "2012-08-27",
+     "units": 27,
+     "source_url": "https://jdih.tulungagung.go.id/storage/peraturan/PERDA_NO_10_TAHUN_2012_TENTANG_PERRLINDUNGAN_MATA_AIR.pdf",
+     "sha256": "130d4079bb6f3dcc37ce0f1bf833e8aaf3bc7efd52ac71c8521bcca0bc71c55c"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2012-008-sistem-resi-gudang",
+   "short": "Perda Tulungagung Regency 8/2012",
+   "title": "PERATURAN DAERAH KABUPATEN TULUNGAGUNG NOMOR 8 TAHUN 2012 TENTANG SISTEM RESI GUDANG",
+   "url": "https://jdih.tulungagung.go.id/peraturan/1285",
+   "versions": [
+    {
+     "from": "2012-10-09",
+     "units": 21,
+     "source_url": "https://jdih.tulungagung.go.id/storage/peraturan/PERDA_NO_8_TAHUN_2012_TENTANG_SISTEM_RESI_GUDANG.pdf",
+     "sha256": "fe34d3fece47abd3ee427e4a71950c044ca9f44d6ae5792d06fa8245d7dd3cb7"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2013-011-perubahan-kedua-atas-peraturan-daerah-kabupaten-tulungagung-nomor-10",
+   "short": "Perda Tulungagung Regency 11/2013",
+   "title": "PERATURAN DAERAH KABUPATEN TULUNGAGUNG NOMOR 11 TAHUN 2013 TENTANG PERUBAHAN KEDUA ATAS PERATURAN DAERAH KABUPATEN TULUNGAGUNG NOMOR 10 TAHUN 2007 TENTANG PERUSAHAAN DAERAH BPR BANK DAERAH TULUNGAGUNG",
+   "url": "https://jdih.tulungagung.go.id/peraturan/1308",
+   "versions": [
+    {
+     "from": "2014-01-02",
+     "units": 5,
+     "source_url": "https://jdih.tulungagung.go.id/storage/peraturan/PERDA_NO_11_TAHUN_2013_TENTANG_PERUBAHAN_KEDUA_ATAS_PERDA_NOMOR_10_TAHUN_2007_TENTANG_PERUSAHAAN_DAERAH_BPR.pdf",
+     "sha256": "4327ff186e9a10cad063180983713e6f4029be8877215ff93bc4ed5c9bb35cfe"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2013-012-perubahan-kedua-atas-peraturan-daerah-kabupaten-tulungagung-nomor-5",
+   "short": "Perda Tulungagung Regency 12/2013",
+   "title": "PERATURAN DAERAH KABUPATEN TULUNGAGUNG NOMOR 12 TAHUN 2013 TENTANG PERUBAHAN KEDUA ATAS PERATURAN DAERAH KABUPATEN TULUNGAGUNG NOMOR 5 TAHUN 2010 TENTANG PENYERTAAN MODAL (INVESTASI) PEMERINTAH DAERAH KABUPATEN TULUNGAGUNG PADA PERUSAHAAN DAERAH ANEKA USAHA (PDAU) KABUPATEN TULUNGAGUNG",
+   "url": "https://jdih.tulungagung.go.id/peraturan/1309",
+   "versions": [
+    {
+     "from": "2014-01-02",
+     "units": 5,
+     "source_url": "https://jdih.tulungagung.go.id/storage/peraturan/PERDA_NO_12_TAHUN_2013_TENTANG_PERUBAHAN_KEDUA_ATAS_PERDA_NOMOR_5_TAHUN_2010_TENTANG_PENYERTAAN_MODAL_(INVESTASI)_PEMDA_KAB._TULUNGAGUNG_PADA_PDAU.pdf",
+     "sha256": "85e7a8d2fa3065ca872ffaf6c5b23215bd76a62c625eddb92f386c11b6fab380"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2013-003-pengumpulan-sumbangan-oleh-masyarakat",
+   "short": "Perda Tulungagung Regency 3/2013",
+   "title": "PERATURAN DAERAH KABUPATEN TULUNGAGUNG NOMOR 3 TAHUN 2013 TENTANG PENGUMPULAN SUMBANGAN OLEH MASYARAKAT",
+   "url": "https://jdih.tulungagung.go.id/peraturan/1302",
+   "versions": [
+    {
+     "from": "2014-03-17",
+     "units": 22,
+     "source_url": "https://jdih.tulungagung.go.id/storage/peraturan/PERDA_NO_3_TAHUN_2013_TENTANG_PENGUMPULAN_SUMBANGAN_OLEH_MASYARAKAT.pdf",
+     "sha256": "219cfe16ff0ae3619acd296f18168a39334fcf8f12fb670db5739b1a3781f08d"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2013-004-pemberdayaan-dan-perlindungan-koperasi-usaha-mikro-kecil-dan-menengah",
+   "short": "Perda Tulungagung Regency 4/2013",
+   "title": "PERATURAN DAERAH KABUPATEN TULUNGAGUNG NOMOR 4 TAHUN 2013 TENTANG PEMBERDAYAAN DAN PERLINDUNGAN KOPERASI, USAHA MIKRO, KECIL, DAN MENENGAH",
+   "url": "https://jdih.tulungagung.go.id/peraturan/1303",
+   "versions": [
+    {
+     "from": "2014-03-17",
+     "units": 41,
+     "source_url": "https://jdih.tulungagung.go.id/storage/peraturan/PERDA_NO_4_TAHUN_2013_TENTANG_PEMBERDAYAAN_DAN_PERLINDUNGAN_KOPERASI,_USAHA_MIKRO,_KECIL,_DAN_MENENGAH.pdf",
+     "sha256": "417bdc0b81ea589a3e8cc048ee032f7db00f518308fae29bfbc1c2ac484bf6ca"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2013-005-keterbukaan-informasi-publik",
+   "short": "Perda Tulungagung Regency 5/2013",
+   "title": "PERATURAN DAERAH KABUPATEN TULUNGAGUNG NOMOR 5 TAHUN 2013 TENTANG KETERBUKAAN INFORMASI PUBLIK",
+   "url": "https://jdih.tulungagung.go.id/peraturan/1304",
+   "versions": [
+    {
+     "from": "2014-03-17",
+     "units": 58,
+     "source_url": "https://jdih.tulungagung.go.id/storage/peraturan/PERDA_NO_5_TAHUN_2013_TENTANG_KETERBUKAAN_INFORMASI_PUBLIK.pdf",
+     "sha256": "b6469a941caa813fd8068dc16c935a927a442e253bc1413596764442441002c8"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2013-007-pemanfaatan-bagian-jalan",
+   "short": "Perda Tulungagung Regency 7/2013",
+   "title": "PERATURAN DAERAH KABUPATEN TULUNGAGUNG NOMOR 7 TAHUN 2013 TENTANG PEMANFAATAN BAGIAN JALAN",
+   "url": "https://jdih.tulungagung.go.id/peraturan/1305",
+   "versions": [
+    {
+     "from": "2014-03-17",
+     "units": 29,
+     "source_url": "https://jdih.tulungagung.go.id/storage/peraturan/PERDA_NO_7_TAHUN_2013_TENTANG_PEMANFAATAN_BAGIAN_JALAN.pdf",
+     "sha256": "5ae34df344e256882521468701893fe7d0ccac188c62def6ffa4202cbc5bff26"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2013-009-disiplin-pegawai-negeri-sipil",
+   "short": "Perda Tulungagung Regency 9/2013",
+   "title": "PERATURAN DAERAH KABUPATEN TULUNGAGUNG NOMOR 9 TAHUN 2013 TENTANG DISIPLIN PEGAWAI NEGERI SIPIL",
+   "url": "https://jdih.tulungagung.go.id/peraturan/1307",
+   "versions": [
+    {
+     "from": "2014-03-17",
+     "units": 47,
+     "source_url": "https://jdih.tulungagung.go.id/storage/peraturan/PERDA_NO_9_TAHUN_2013_TENTANG_DISIPLIN_PEGAWAI_NEGERI_SIPIL.pdf",
+     "sha256": "b3dcdde7b2ce4218f001957b7d0f59bbc8c2b89d51ef4d03f33633e2a56adc85"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2013-013-penerimaan-sumbangan-pihak-ketiga-kepada-daerah",
+   "short": "Perda Tulungagung Regency 13/2013",
+   "title": "PERATURAN DAERAH KABUPATEN TULUNGAGUNG NOMOR 13 TAHUN 2013 TENTANG PENERIMAAN SUMBANGAN PIHAK KETIGA KEPADA DAERAH",
+   "url": "https://jdih.tulungagung.go.id/peraturan/1310",
+   "versions": [
+    {
+     "from": "2014-03-17",
+     "units": 18,
+     "source_url": "https://jdih.tulungagung.go.id/storage/peraturan/PERDA_NO_13_TAHUN_2013_TENTANG_PENERIMAAN_SUMBANGAN_PIHAK_KETIGA_KEPADA_DAERAH.pdf",
+     "sha256": "d867718cc03b3d2c686c45244900eaf929d52e9763aee77d87fbf19b052f453d"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2013-014-pengelolaan-pupuk-organik-dan-pupuk-hayati",
+   "short": "Perda Tulungagung Regency 14/2013",
+   "title": "PERATURAN DAERAH KABUPATEN TULUNGAGUNG NOMOR 14 TAHUN 2013 TENTANG PENGELOLAAN PUPUK ORGANIK DAN PUPUK HAYATI",
+   "url": "https://jdih.tulungagung.go.id/peraturan/1311",
+   "versions": [
+    {
+     "from": "2014-03-17",
+     "units": 28,
+     "source_url": "https://jdih.tulungagung.go.id/storage/peraturan/PERDA_NO_14_TAHUN_2013_TENTANG_PENGELOLAAN_PUPUK_ORGANIK_DAN_PUPUK_HAYATI.pdf",
+     "sha256": "5db155ea7ab2e42ce397c0ac1e832c58780956dfcbd1bfd69266b5ca0738b787"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2013-018-bagian-desa-dari-hasil-penerimaan-pajak-daerah-dan-retribusi-daerah",
+   "short": "Perda Tulungagung Regency 18/2013",
+   "title": "PERATURAN DAERAH KABUPATEN TULUNGAGUNG NOMOR 18 TAHUN 2013 TENTANG BAGIAN DESA DARI HASIL PENERIMAAN PAJAK DAERAH DAN RETRIBUSI DAERAH",
+   "url": "https://jdih.tulungagung.go.id/peraturan/1313",
+   "versions": [
+    {
+     "from": "2014-03-17",
+     "units": 16,
+     "source_url": "https://jdih.tulungagung.go.id/storage/peraturan/PERDA_NO_18_TAHUN_2013_TENTANG_BAGIAN_DESA_DARI_HASIL_PENERIMAAN_PAJAK_DAERAH_DAN_RETRIBUSI_DAERAH.pdf",
+     "sha256": "46d058652d67c77fd0ea6fc0318161fb81747a5391089552f7a27a639341cf4f"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2013-017-perlindungan-tenaga-kerja-indonesia-tki-kabupaten-tulungagung",
+   "short": "Perda Tulungagung Regency 17/2013",
+   "title": "PERATURAN DAERAH KABUPATEN TULUNGAGUNG NOMOR 17 TAHUN 2013 TENTANG PERLINDUNGAN TENAGA KERJA INDONESIA (TKI) KABUPATEN TULUNGAGUNG",
+   "url": "https://jdih.tulungagung.go.id/peraturan/1312",
+   "versions": [
+    {
+     "from": "2014-03-21",
+     "units": 32,
+     "source_url": "https://jdih.tulungagung.go.id/storage/peraturan/PERDA_NO_17_TAHUN_2013_TENTANG_PERLINDUNGAN_TENAGA_KERJA_INDONESIA_(TKI).pdf",
+     "sha256": "4319c122d342002ab7261d07fdbf4b0dc30f3a439dd9efeee1c6327c63441bc3"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2013-008-perubahan-atas-peraturan-daerah-kabupaten-tulungagung-nomor-5-tahun",
+   "short": "Perda Tulungagung Regency 8/2013",
+   "title": "PERATURAN DAERAH KABUPATEN TULUNGAGUNG NOMOR 8 TAHUN 2013 TENTANG PERUBAHAN ATAS PERATURAN DAERAH KABUPATEN TULUNGAGUNG NOMOR 5 TAHUN 2011 TENTANG PEMBENTUKAN DAN PENYELENGGARAAN BADAN PENANGGULANGAN BENCANA DAERAH KABUPATEN TULUNGAGUNG",
+   "url": "https://jdih.tulungagung.go.id/peraturan/1306",
+   "versions": [
+    {
+     "from": "2014-04-02",
+     "units": 5,
+     "source_url": "https://jdih.tulungagung.go.id/storage/peraturan/PERDA_NO_8_TAHUN_2013_TENTANG_PERUBAHAN_ATAS_PEDA_NOMOR_5_TAHUN_2011_ttg_BPBD.pdf",
+     "sha256": "67500842b77c84d8df43d4e4ea2ae0d84adc1ec03b4e7adab0f8db0cb5ab11fa"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2014-001-pembentukan-produk-hukum-daerah-kabupaten-tulungagung",
+   "short": "Perda Tulungagung Regency 1/2014",
+   "title": "PERATURAN DAERAH KABUPATEN TULUNGAGUNG NOMOR 1 TAHUN 2014 TENTANG PEMBENTUKAN PRODUK HUKUM DAERAH KABUPATEN TULUNGAGUNG",
+   "url": "https://jdih.tulungagung.go.id/peraturan/801",
+   "versions": [
+    {
+     "from": "2014-07-22",
+     "units": 93,
+     "source_url": "https://jdih.tulungagung.go.id/storage/peraturan/PERDA_NO_1_TAHUN_2014_TENTANG_PEMBENTUKAN_PRODUK_H.pdf",
+     "sha256": "d9734d4dce43d5f99124addcd5a9493ee68c2bedc134bf29e9a84bce9de0572a"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2014-010-perubahan-kedua-atas-peraturan-daerah-nomor-5-tahun-2011-tentang",
+   "short": "Perda Tulungagung Regency 10/2014",
+   "title": "PERATURAN DAERAH KABUPATEN TULUNGAGUNG NOMOR 10 TAHUN 2014 TENTANG PERUBAHAN KEDUA ATAS PERATURAN DAERAH NOMOR 5 TAHUN 2011 TENTANG PEMBENTUKAN DAN PENYELENGGARAAN BADAN PENANGGULANGAN BENCANA DAERAH KABUPATEN TULUNGAGUNG",
+   "url": "https://jdih.tulungagung.go.id/peraturan/808",
+   "versions": [
+    {
+     "from": "2014-09-26",
+     "units": 5,
+     "source_url": "https://jdih.tulungagung.go.id/storage/peraturan/PERDA_NO_10_TAHUN_2014_TENTANG_PERUBAHAN_KEDUA_ATA.pdf",
+     "sha256": "5f4eff5fe25ca5699db0f75433d0a028747fa8319b8e2075bcbdf2862be832ef"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2014-006-perubahan-atas-peraturan-daerah-kabupaten-tulungagung-nomor-9-tahun",
+   "short": "Perda Tulungagung Regency 6/2014",
+   "title": "PERATURAN DAERAH KABUPATEN TULUNGAGUNG NOMOR 6 TAHUN 2014 TENTANG PERUBAHAN ATAS PERATURAN DAERAH KABUPATEN TULUNGAGUNG NOMOR 9 TAHUN 2012 TENTANG PENYERTAAN MODAL PEMERINTAH KABUPATEN TULUNGAGUNG PADA PDAM ”TULUNGAGUNG”",
+   "url": "https://jdih.tulungagung.go.id/peraturan/804",
+   "versions": [
+    {
+     "from": "2014-10-07",
+     "units": 5,
+     "source_url": "https://jdih.tulungagung.go.id/storage/peraturan/PERDA_NO_6_TAHUN_2014_TENTANG_PERUBAHAN_PERDA_NO_9.pdf",
+     "sha256": "61ebf696cdbfa1317f9d8bc2b619a88a1137a62e20977bc8ad96875ac4dfe6e5"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2014-009-organisasi-dan-tata-kerja-perangkat-daerah",
+   "short": "Perda Tulungagung Regency 9/2014",
+   "title": "PERATURAN DAERAH KABUPATEN TULUNGAGUNG NOMOR 9 TAHUN 2014 TENTANG ORGANISASI DAN TATA KERJA PERANGKAT DAERAH",
+   "url": "https://jdih.tulungagung.go.id/peraturan/807",
+   "versions": [
+    {
+     "from": "2014-10-31",
+     "units": 56,
+     "source_url": "https://jdih.tulungagung.go.id/storage/peraturan/PERDA_NO_9_TAHUN_2014_TENTANG_ORGANISASI_DAN_TATA_.pdf",
+     "sha256": "e0039db955b93514617f1cbef89762eac91dfc2b93711a8cdbb7023cd4903709"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2014-008-perubahan-atas-peraturan-daerah-kabupaten-tulungagung-nomor-4-tahun",
+   "short": "Perda Tulungagung Regency 8/2014",
+   "title": "PERATURAN DAERAH KABUPATEN TULUNGAGUNG NOMOR 8 TAHUN 2014 TENTANG PERUBAHAN ATAS PERATURAN DAERAH KABUPATEN TULUNGAGUNG NOMOR 4 TAHUN 2012 TENTANG PENYELENGGARAAN ADMINISTRASI KEPENDUDUKAN DAN PENCATATAN SIPIL",
+   "url": "https://jdih.tulungagung.go.id/peraturan/806",
+   "versions": [
+    {
+     "from": "2014-12-02",
+     "units": 4,
+     "source_url": "https://jdih.tulungagung.go.id/storage/peraturan/PERDA_NO_8_TAHUN_2014_TENTANG_PERUBAHAN_ATAS_PERDA.pdf",
+     "sha256": "b17cfebff104efe8c4b358f8605ad959c3e2f1a76ab80fabdd024137f252c870"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2023-002-perubahan-keempat-atas-peraturan-daerah-nomor-20-tahun-2016-tentang",
+   "short": "Perda Tulungagung Regency 2/2023",
+   "title": "PERATURAN DAERAH KABUPATEN TULUNGAGUNG NOMOR 2 TAHUN 2023 TENTANG PERUBAHAN KEEMPAT ATAS PERATURAN DAERAH NOMOR 20 TAHUN 2016 TENTANG PEMBENTUKAN DAN SUSUNAN PERANGKAT DAERAH KABUPATEN TULUNGAGUNG",
+   "url": "https://jdih.tulungagung.go.id/peraturan/1417",
+   "versions": [
+    {
+     "from": "2023-01-31",
+     "units": 5,
+     "source_url": "https://jdih.tulungagung.go.id/storage/peraturan/PERDA_NOMOR_2_TAHUN_2023_TTG_PERUBAHAN_KEEMPAT_ATAS_PERDA_NOMOR_20_2016_TTG_PEMBENTUKAN_DAN_SUSUNAN_PERANGKAT_DAERAH...pdf",
+     "sha256": "0e2e07ce87c98b207896d5a83947fa753cee4a8f1686837d4589ebe7c4891ff4"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2023-003-perubahan-kedua-atas-peraturan-daerah-nomor-4-tahun-2017-tentang",
+   "short": "Perda Tulungagung Regency 3/2023",
+   "title": "PERATURAN DAERAH KABUPATEN TULUNGAGUNG NOMOR 3 TAHUN 2023 TENTANG PERUBAHAN KEDUA ATAS PERATURAN DAERAH NOMOR 4 TAHUN 2017 TENTANG PERANGKAT DESA",
+   "url": "https://jdih.tulungagung.go.id/peraturan/544",
+   "versions": [
+    {
+     "from": "2023-01-31",
+     "units": 5,
+     "source_url": "https://jdih.tulungagung.go.id/storage/peraturan/PERDA_NOMOR_3_TAHUN_2023__TENTANG_PERUBAHAN_KEDUA_.pdf",
+     "sha256": "ea2fc287bdcb751fa8fedefc1fb2f7254c59aebc5927af3c289f710f97b2fc16"
+    }
+   ]
+  }
+ ]
+}
